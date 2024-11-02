@@ -1,10 +1,4 @@
 # Welcome to my GitHub main page
-## Résumé
-<div align="center">
-<a href="https://drive.google.com/file/d/1sbEQJVXJ7oX_gkZcWYztaKNAcvOMFdLP/view?usp=sharing" target="_blank">
-<img src=https://img.shields.io/badge/Résumé-View_my_Résumé-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white alt="View my Résumé" style="margin-bottom: 5px;" />
-</a>
-</div>
 
 ## Skill Set  
 <table><tr><td valign="top" width="50%">
